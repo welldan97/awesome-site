@@ -1,0 +1,40 @@
+.body {
+	background-color: #CCCCCC;
+	margin: 0;
+	font-family: sans-serif;
+}
+.header {
+	background-color: #FFFFFF;
+	height: 80px;
+	border-bottom: 1px solid #AAAAAA;
+	padding-top: 20px;
+	text-align: center;
+}
+.header-logo {
+	width:120px;
+	vertical-align: middle;
+}
+.header-search {
+	border-radius: 100px;
+	margin-left: 50px;
+	margin-right: 50px;
+	text-align: center;
+}
+.header-search:focus {
+	text-align: left;
+}
+.header-username {
+text-decoration: none;
+font-weight: bold;
+color:#5050C5;
+}
+.photo {
+width: 300px;
+background-color: #FFFFFF;
+padding: 10px;
+margin: auto;
+margin-top: 20px;
+}
+.photo-image {
+	max-width: 100%;
+}
