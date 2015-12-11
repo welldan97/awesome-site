@@ -14,3 +14,22 @@
 	width:120px;
 	vertical-align: middle;
 }
+.header-search {
+	background-color: #FAFAFA;
+	border: solid 1px #EDEEEE;
+	font-size: 14px;
+    font-weight: 300;
+    height: 28px;
+    width: 216px;
+    border-radius: 15px;
+    color: #A0A0A0;
+    text-align: center;
+    margin-left: 230px;
+    margin-right: 300px;
+}
+.header-search:focus {
+	border: solid 1px #EDEEEE;
+	outline: none;
+	text-align: left;
+	color: #000000;
+}
