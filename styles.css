@@ -1,7 +1,7 @@
 .body {
 	background-color: #FFFFFF;
 	margin: 0;
-	font-family: Helvetica;
+	font-family: sans-serif;
 }
 .header {
 	background-color: #FFFFFF;
@@ -51,11 +51,12 @@
 }
 .login {
 	display: inline-block;
-	font-weight: normal;
+	font-weight: lighter;
 	color: #4b4f54;
 	font-size: 32px;
 	text-align: left;
 	margin-right: 20px;
+	float: left;
 }
 .edit-profile {
 	line-height: 39px;
@@ -80,4 +81,17 @@
 .name {
 	color: #505050;
 	font-weight: bold;
+	margin-top: 18px;
+	display: inline-block;
+	float: left;
+
+}
+.profile-link {
+	color: #125688;
+    text-decoration: none;
+    font-weight: 600;
+    margin-top: 18px;
+    display: inline-block;
+    margin-left: 5px;
+    font-size: 15px;
 }
