@@ -95,3 +95,34 @@
     margin-left: 5px;
     font-size: 15px;
 }
+.number-pub {
+	color: #34373b;
+    font-weight: 600;
+    margin-right: 3px;
+    float: left;
+    display: inline-block;
+}
+.number-pod {
+	color: #34373b;
+    font-weight: 600;
+    margin-right: 3px;
+    float: left;
+    display: inline-block;
+}
+.text-profile {
+	color: #34373b;
+    margin-right: 40px;
+    float: left;
+    display: inline-block;
+}
+.text-sub {
+	color: #34373b;
+    float: left;
+    display: inline-block;
+
+}
+.number-sub {
+	color: #34373b;
+    font-weight: 600;
+  	margin-left: 3px;
+}
