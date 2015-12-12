@@ -72,6 +72,7 @@
     cursor: pointer;
     text-decoration: none;
     vertical-align: middle;
+    text-transform: uppercase;
 }
 .edit-profile:hover {
 	text-decoration: none;
@@ -125,4 +126,39 @@
 	color: #34373b;
     font-weight: 600;
   	margin-left: 3px;
+}
+.panel-photo {
+text-align: center;
+margin: auto;
+}
+.photo {
+width: 291px;
+margin: 13px 13px 13px 13px;
+color: transparent;
+}
+.photo:hover {
+    background-color:normal;
+}
+.download-photo {
+	text-align: center;
+}
+.download-else {
+	color: #4090db;
+	border-color: #4090db;
+	text-transform: uppercase;
+	border-width: 2px;
+	text-decoration: none;
+	padding: 53px 9px;
+	border-style: solid;
+	text-align: center;
+	cursor: pointer;
+	font-size: 12px;
+	font-weight: 600;
+	border-radius: 70px;
+	vertical-align: middle;
+	word-spacing: 0px;
+}
+.download-else:hover {
+	color: #0d3c5f;
+	border-color: #0d3c5f;
 }
